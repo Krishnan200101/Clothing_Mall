@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623015203985",
+    "project_id": "clothingmall-30d52",
+    "storage_bucket": "clothingmall-30d52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623015203985:android:8f8212f500acc4bb5c9b30",
+        "android_client_info": {
+          "package_name": "com.example.clothingmall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxsvcuZHy7oP54mEdhcPxy3p3SjLg8MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

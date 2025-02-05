@@ -1,0 +1,12 @@
+[
+  {
+    "userName": "John Doe",
+    "rating": 5,
+    "comment": "Great product! (Offline data)"
+  },
+  {
+    "userName": "Jane Smith",
+    "rating": 4,
+    "comment": "Good quality (Offline data)"
+  }
+] 
